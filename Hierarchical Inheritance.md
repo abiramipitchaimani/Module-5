@@ -1,5 +1,4 @@
-# Exp.No:25  
-## Hierarchical Inheritance
+# Exp.No:5C-Hierarchical Inheritance
 
 ---
 
