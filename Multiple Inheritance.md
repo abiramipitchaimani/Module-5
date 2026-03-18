@@ -1,5 +1,4 @@
-# Exp.No:23  
-## Multiple Inheritance
+# Exp.No:5E-Multiple Inheritance
 
 ---
 
