@@ -1,5 +1,4 @@
-# Exp.No:22  
-## Destructor
+# Exp.No:5B-Destructor
 
 ---
 
